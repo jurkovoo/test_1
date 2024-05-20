@@ -1,3 +1,7 @@
+##### autor:Jiří Mládek #####
+##### email:jurkovoo@seznam.cz #####
+##### discort:jurkovoo_32420 #####
+
 ##### 1. část #####
 
 user_db = '''\
